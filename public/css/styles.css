@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    margin: 0;
+}
+.header, .footer {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+.container {
+    width: 400px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+h2 { text-align: center; }
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+}
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+.table-container {
+    width: 80%;
+    margin: 20px auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+.nav {
+    text-align: center;
+    margin: 10px;
+}
